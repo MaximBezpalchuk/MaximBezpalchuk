@@ -21,7 +21,7 @@
 </p>
 
 ## 🛠 Technical Skills
-* Java 8, PostgreSQL, Hibernate
+* Java 8, PostgreSQL, Hibernate, Logging
 * Spring Framework/Boot/Test/Data Jpa/Jdbc template/MVC...
 * Thymeleaf, Bootstrap
 * GitHub/GitLab
