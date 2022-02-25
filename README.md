@@ -1,5 +1,5 @@
 ### Hi! I`m Maxim 👋
-## I`m junior java developer
+## I`m a junior java developer
 - :books: I like to write code
 - :gear: I love to making concepts with metalworking tecnologies
 - :musical_keyboard: I am constantly learning new things
