@@ -3,7 +3,7 @@
 - :books: I like to write code
 - :gear: I love to making concepts with metalworking tecnologies
 - :musical_keyboard: I am constantly learning new things
-- :roller_skate: I really love roller skates and diving
+- :diving_mask: I really love roller skates and diving
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/maxim-bezpalchuk-7a1508202/">
