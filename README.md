@@ -1,4 +1,6 @@
-# Hi! I`m Maxim 👋
+### Hi! I`m Maxim 👋
+## I`m junior java developer
+- :books: I like to write code
 <p align='center'>
 <a href="https://www.linkedin.com/in/maxim-bezpalchuk-7a1508202/">
   <img "height=150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
