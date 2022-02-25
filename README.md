@@ -1,7 +1,7 @@
 ### Hi! I`m Maxim 👋
 ## I`m a junior java developer
 - :books: I like to write code
-- :gear: I love to making concepts with metalworking tecnologies
+- :gear: I love to making concepts with metalworking technologies
 - :musical_keyboard: I am constantly learning new things
 - :diving_mask: I really love roller skates and diving
 
